@@ -1,3 +1,16 @@
 {
-  "description": "This is a simple to-do list app"
+  "name": "My To-Do App",
+  "short_name": "To-Do",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "description": "A simple to-do list app.",
+  "icons": [
+    {
+      "src": "icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }
